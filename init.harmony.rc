@@ -6,7 +6,7 @@ on init
     export PHONE_STORAGE /mnt/emmc
     export EXTERNAL_STORAGE_SD2 /mnt/emmc
     export EXTERNAL_STORAGE_UDISK /mnt/udisk
-    export BOOTCLASSPATH /system/framework/core.jar:/system/framework/bouncycastle.jar:/system/framework/ext.jar:/system/framework/framework.jar:/system/framework/android.policy.jar:/system/framework/services.jar:/system/framework/core-junit.jar:/system/framework/com.tapntap.platform.jar:/system/framework/com.nvidia.graphics.jar
+    export BOOTCLASSPATH /system/framework/core.jar:/system/framework/bouncycastle.jar:/system/framework/ext.jar:/system/framework/framework.jar:/system/framework/android.policy.jar:/system/framework/services.jar:/system/framework/core-junit.jar:/system/framework/com.nvidia.graphics.jar
 
 on fs
 # Mount file systems
